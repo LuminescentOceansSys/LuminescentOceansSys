@@ -52,9 +52,7 @@ ${{\color{cyan}{\texttt{𝙇𝙞𝙣𝙠𝙨}}}}$ ${{\color{blue}{\texttt{╰⭑
 
 # <p align="center"> ${{\color{#0e1271}\Huge{\texttt{╔═════ ≪}}}}$ ${{\color{#59A1C1}\Huge{\texttt{  𐔌   .  ⋮ }}}}$ ${{\color{cyan}\Huge{\texttt{𝙀𝙭𝙩𝙧𝙖}}}}$ ${{\color{#59A1C1}\Huge{\texttt{  .ᐟ  ֹ   ₊ ꒱ }}}}$ ${{\color{#0e1271}\Huge{\texttt{≫ ═════╗}}}}$</p>
 
-Ill be doing README repository requests for free, request on ata with github and discord username attached. Discord being used for an easy way of communication on what themes, text, and colors you may want. Send us a friend req on discord, ``olliezzwonderland``
-
-<sub> ill try my best to reply, and make this an efficient way </sub>
+Ill be doing README repository requests for free in the near future ``maybe when were done with the millions of tasks we have to do 😭``
 
 You can also request spotify playlists on our strawpage!! ``may take a while for a reply and creation``
 
