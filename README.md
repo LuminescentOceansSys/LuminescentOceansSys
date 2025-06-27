@@ -39,10 +39,10 @@ ${{\color{blue}{\texttt{╰┈➤}}}}$ <sub>${{\color{gray}{\texttt{𝐓𝐨𝐧
 
 
 ${{\color{cyan}{\texttt{𝙇𝙞𝙣𝙠𝙨}}}}$ ${{\color{blue}{\texttt{╰⭑.ᐟ𓂃}}}}$ ${{\color{cyan}{\texttt{: :}}}}$ [🍀`` @,,- 《 {  [Link Tree](https://linktr.ee/FormTak3rzz)
- } . . . { [── .✦ 🌟 Ata](https://ssc.atabook.org/) }
-  . . . { [╭ ♡‧₊🫧 Strawpage](https://luminescentoceans.straw.page/) }
-  . . . { [: ''◟∫ 🌊¯ Front / Sys info](https://pluralkit.xyz/f/gkrvpo)
-  . . . {[.𖥔 ݁ ˖  { Prns.cc (wip)](https://pronouns.cc/@Luminescent_Oceans_Sys) }
+ } . . . { [Ata](https://ssc.atabook.org/) }
+  . . . { [Strawpage](https://luminescentoceans.straw.page/) }
+  . . . { [Front / Sys info](https://pluralkit.xyz/f/gkrvpo) }
+  . . . {[Prns.cc (wip)](https://pronouns.cc/@Luminescent_Oceans_Sys) }
 
 # <p align="center"> ${{\color{#0e1271}\Huge{\texttt{╚════·:·.✧}}}}$ ${{\color{#59A1C1}\Huge{\texttt{  𐔌   .  ⋮ }}}}$ ${{\color{cyan}\Huge{\texttt{𝙄𝙣𝙛𝙤}}}}$ ${{\color{#59A1C1}\Huge{\texttt{  .ᐟ  ֹ   ₊ ꒱ }}}}$  ${{\color{#0e1271}\Huge{\texttt{✧.·:·════╝}}}}$ </p>
 
