@@ -32,12 +32,12 @@ working on learning better html / css coding, tips appreciated
 
 We want to share this openly from the start to make future interactions with new friends less awkward. And to spread awareness. ``This is a huge part of our lives and truly shapes how we process things and behave every single day.``
 
-We live with mental disabilities and significantly ``struggle with our mental health.`` As neurodivergent individuals, we have suspected Brief Psychotic Disorder and a dissociative disorder, which includes medically recognized plurality. ``Our memory can be quite poor, and we experience emotional instability. please approach us with aution and care always.``
+We live with mental disabilities and significantly ``struggle with our mental health.`` As neurodivergent individuals, we have suspected Brief Psychotic Disorder and a dissociative disorder, which includes medically recognized plurality. ``Our memory can be quite poor, and we experience emotional instability. please approach us with caution and care at all times.``
 
 
-   ${{\color{blue}{\texttt{┆ ⤿ 💌 ⌗ }}}}$ ``Endogenic systems are on thin ice with us.`` While we understand why some might believe they are an endogenic system, ``please approach us with caution.`` Claiming to be endogenic for personal gain is ``not something we condone.`` ${{\color{gray}{\texttt{𝙙𝙣𝙞}}}}$ .ᐟ.ᐟ
+   ${{\color{blue}{\texttt{┆ ⤿ 💌 ⌗ }}}}$ ``Endogenic systems are on thin ice.`` While we understand why some might believe they are an endogenic system, ``please approach us with caution.`` Claiming to be endogenic for personal gain is ``not something we condone.`` ${{\color{gray}{\texttt{𝙙𝙣𝙞}}}}$ .ᐟ.ᐟ
 
-${{\color{cyan}{\texttt{⊹ ◟ ⭐ ◝ — }}}}$ 𝙒𝙚 𝙜𝙤 𝙞𝙣 𝙖𝙣𝙙 𝙤𝙪𝙩 𝙤𝙛 𝙙𝙤𝙧𝙢𝙖𝙣𝙘𝙮 𝙤𝙛𝙩𝙚𝙣, 𝙣𝙤𝙗𝙤𝙙𝙮 𝙝𝙤𝙡𝙙𝙨 𝙩𝙝𝙚 ' ${{\color{cyan}{\texttt{𝙝𝙤𝙨𝙩}}}}$ ' 𝙧𝙤𝙡𝙚 𝙩𝙤 𝙩𝙝𝙞𝙨.
+${{\color{cyan}{\texttt{⊹ ◟ ⭐ ◝ — }}}}$ 𝙒𝙚 𝙜𝙤 𝙞𝙣 𝙖𝙣𝙙 𝙤𝙪𝙩 𝙤𝙛 𝙙𝙤𝙧𝙢𝙖𝙣𝙘𝙮 𝙤𝙛𝙩𝙚𝙣, 𝙣𝙤𝙗𝙤𝙙𝙮 𝙝𝙤𝙡𝙙𝙨 𝙩𝙝𝙚 ' ${{\color{cyan}{\texttt{𝙝𝙤𝙨𝙩}}}}$ ' 𝙧𝙤𝙡𝙚 ***due to*** 𝙩𝙝𝙞𝙨.
 
 ${{\color{blue}{\texttt{╰┈➤}}}}$ <sub>${{\color{gray}{\texttt{𝐓𝐨𝐧𝐞 𝐭𝐚𝐠𝐬 𝐚𝐫𝐞 𝐠𝐫𝐞𝐚𝐭𝐥𝐲 𝐚𝐩𝐩𝐫𝐞𝐜𝐢𝐚𝐭𝐞𝐝, 𝐭𝐡𝐨𝐮𝐠𝐡 𝐛𝐞 𝐰𝐚𝐫𝐲 𝐬𝐨𝐦𝐞 𝐨𝐟 𝐮𝐬 𝐝𝐨𝐧'𝐭 𝐮𝐬𝐞 𝐭𝐨𝐧𝐞 𝐭𝐚𝐠𝐬.}}}}$ </sub> ${{\color{cyan}{\texttt{⤵}}}}$
 
