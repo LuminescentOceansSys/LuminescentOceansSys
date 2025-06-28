@@ -29,9 +29,13 @@ working on learning better html / css coding, tips appreciated
 
  <div align="center">
    
-_self diagnosed_ ``Autism`` and _suspected_ ``Brief Psychotic Disorder``/~~BPD~~ <sub> (not Bipolar Personality Disorder) </sub>
 
-   ${{\color{blue}{\texttt{┆ ⤿ 💌 ⌗ }}}}$ ``𝙀𝙣𝙙𝙤𝙜𝙚𝙣𝙞𝙘 𝙨𝙮𝙨𝙩𝙚𝙢𝙨 𝙖𝙧𝙚 𝙤𝙣 𝙩𝙝𝙞𝙣 𝙞𝙘𝙚.`` 𝙄 𝙪𝙣𝙙𝙚𝙧𝙨𝙩𝙖𝙣𝙙 𝙩𝙝𝙚 𝙧𝙚𝙖𝙨𝙤𝙣𝙨 𝙢𝙖𝙣𝙮 𝙢𝙖𝙮 𝙩𝙝𝙞𝙣𝙠 𝙩𝙝𝙚𝙮 𝙘𝙤𝙪𝙡𝙙 𝙗𝙚 𝙖𝙣 𝙚𝙣𝙙𝙤𝙜𝙚𝙣𝙞𝙘 𝙨𝙮𝙨𝙩𝙚𝙢. 𝙋𝙡𝙚𝙖𝙨𝙚 𝙖𝙥𝙥𝙧𝙤𝙖𝙘𝙝 𝙪𝙨 𝙬𝙞𝙩𝙝 𝙘𝙖𝙪𝙩𝙞𝙤𝙣. ``𝘾𝙡𝙖𝙞𝙢𝙞𝙣𝙜 𝙩𝙤 𝙗𝙚 𝙚𝙣𝙙𝙤𝙜𝙚𝙣𝙞𝙘 𝙖𝙨 𝙖𝙣 𝙚𝙭𝙘𝙪𝙨𝙚 𝙛𝙤𝙧 𝙮𝙤𝙪𝙧 𝙤𝙬𝙣 𝙨𝙚𝙡𝙛 𝙜𝙖𝙞𝙣``, ${{\color{gray}{\texttt{𝙙𝙣𝙞}}}}$ .ᐟ.ᐟ
+We want to share this openly from the start to make future interactions with new friends less awkward. And to spread awareness. ``This is a huge part of our lives and truly shapes how we process things and behave every single day.``
+
+We live with mental disabilities and significantly ``struggle with our mental health.`` As neurodivergent individuals, we have suspected Brief Psychotic Disorder and a dissociative disorder, which includes medically recognized plurality. ``Our memory can be quite poor, and we experience emotional instability. please approach us with aution and care always.``
+
+
+   ${{\color{blue}{\texttt{┆ ⤿ 💌 ⌗ }}}}$ ``Endogenic systems are on thin ice with us.`` While we understand why some might believe they are an endogenic system, ``please approach us with caution.`` Claiming to be endogenic for personal gain is ``not something we condone.`` ${{\color{gray}{\texttt{𝙙𝙣𝙞}}}}$ .ᐟ.ᐟ
 
 ${{\color{cyan}{\texttt{⊹ ◟ ⭐ ◝ — }}}}$ 𝙒𝙚 𝙜𝙤 𝙞𝙣 𝙖𝙣𝙙 𝙤𝙪𝙩 𝙤𝙛 𝙙𝙤𝙧𝙢𝙖𝙣𝙘𝙮 𝙤𝙛𝙩𝙚𝙣, 𝙣𝙤𝙗𝙤𝙙𝙮 𝙝𝙤𝙡𝙙𝙨 𝙩𝙝𝙚 ' ${{\color{cyan}{\texttt{𝙝𝙤𝙨𝙩}}}}$ ' 𝙧𝙤𝙡𝙚 𝙩𝙤 𝙩𝙝𝙞𝙨.
 
