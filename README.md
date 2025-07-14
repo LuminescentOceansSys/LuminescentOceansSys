@@ -47,8 +47,6 @@ ${{\color{cyan}{\texttt{𝙇𝙞𝙣𝙠𝙨}}}}$ ${{\color{blue}{\texttt{╰⭑
   . . . { [Strawpage](https://luminescentoceans.straw.page/) }
   . . . { [Front / Sys info](https://pluralkit.xyz/f/gkrvpo) }
   . . . { [Prns.cc (wip)](https://pronouns.cc/@Luminescent_Oceans_Sys) }
-  . . . { [Rentry 1](https://rentry.co/BernedettesKey) }
-
 
 # <p align="center"> ${{\color{#0e1271}\Huge{\texttt{╚════·:·.✧}}}}$ ${{\color{#59A1C1}\Huge{\texttt{  𐔌   .  ⋮ }}}}$ ${{\color{cyan}\Huge{\texttt{𝙄𝙣𝙛𝙤}}}}$ ${{\color{#59A1C1}\Huge{\texttt{  .ᐟ  ֹ   ₊ ꒱ }}}}$  ${{\color{#0e1271}\Huge{\texttt{✧.·:·════╝}}}}$ </p>
 
