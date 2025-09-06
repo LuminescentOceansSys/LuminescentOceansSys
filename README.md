@@ -45,9 +45,7 @@ ${{\color{cyan}{\texttt{⊹ ◟ ⭐ ◝ — }}}}$ 𝙒𝙚 𝙜𝙤 𝙞𝙣 �
 ${{\color{blue}{\texttt{╰┈➤}}}}$ <sub>${{\color{gray}{\texttt{𝐓𝐨𝐧𝐞 𝐭𝐚𝐠𝐬 𝐚𝐫𝐞 𝐠𝐫𝐞𝐚𝐭𝐥𝐲 𝐚𝐩𝐩𝐫𝐞𝐜𝐢𝐚𝐭𝐞𝐝, 𝐭𝐡𝐨𝐮𝐠𝐡 𝐛𝐞 𝐰𝐚𝐫𝐲 𝐬𝐨𝐦𝐞 𝐨𝐟 𝐮𝐬 𝐝𝐨𝐧'𝐭 𝐮𝐬𝐞 𝐭𝐨𝐧𝐞 𝐭𝐚𝐠𝐬.}}}}$ </sub> ${{\color{cyan}{\texttt{⤵}}}}$
 
 
-${{\color{cyan}{\texttt{𝙇𝙞𝙣𝙠𝙨}}}}$ ${{\color{blue}{\texttt{╰⭑.ᐟ𓂃}}}}$ ${{\color{cyan}{\texttt{: :}}}}$ {  [Link Tree](https://linktr.ee/FormTak3rzz)
- } . . . { [Ata](https://ssc.atabook.org/) }
-  . . . { [Strawpage](https://luminescentoceans.straw.page/) }
+${{\color{cyan}{\texttt{𝙇𝙞𝙣𝙠𝙨}}}}$ ${{\color{blue}{\texttt{╰⭑.ᐟ𓂃}}}}$ ${{\color{cyan}{\texttt{: :}}}}$ {  . . . { [Ata](https://ssc.atabook.org/) }
   . . . { [Front / Sys info](https://pluralkit.xyz/f/gkrvpo) } - ``PlurakKit is often outdated/innacurate. We heavily rely on Simply Plural and often times forget to update PluralKit.``
 
 # <p align="center"> ${{\color{#0e1271}\Huge{\texttt{╚════·:·.✧}}}}$ ${{\color{#59A1C1}\Huge{\texttt{  𐔌   .  ⋮ }}}}$ ${{\color{cyan}\Huge{\texttt{𝙄𝙣𝙛𝙤}}}}$ ${{\color{#59A1C1}\Huge{\texttt{  .ᐟ  ֹ   ₊ ꒱ }}}}$  ${{\color{#0e1271}\Huge{\texttt{✧.·:·════╝}}}}$ </p>
