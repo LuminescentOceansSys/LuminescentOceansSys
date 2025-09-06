@@ -7,7 +7,11 @@
   
 <div align="center">
 
- <sub> ![1000000840](https://github.com/user-attachments/assets/89a68ef9-ba7d-49d2-89bd-84bec8f0b91a) </sub>
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/89a68ef9-ba7d-49d2-89bd-84bec8f0b91a" 
+     width="580" 
+     height="500" />
+</p>
 
 
 
@@ -32,21 +36,19 @@ working on learning better html / css coding, tips appreciated
 
 We want to share this openly from the start to make future interactions with new friends less awkward. And to spread awareness. ``This is a huge part of our lives and truly shapes how we process things and behave every single day.``
 
-We live with mental disabilities and significantly ``struggle with our mental health.`` As neurodivergent individuals, we have suspected Brief Psychotic Disorder and a dissociative disorder, which includes medically recognized plurality. ``Our memory can be quite poor, and we experience emotional instability. please approach us with caution and care at all times.``
+We live with mental disabilities and significantly ``struggle with our mental health.`` As neurodivergent individuals, we have a dissociative disorder, which includes medically diagnosed plurality. ``Our memory can be quite poor, and we experience emotional instability. please approach us with caution and care at all times.``
 
 
    ${{\color{blue}{\texttt{┆ ⤿ 💌 ⌗ }}}}$ ``Endogenic systems are on thin ice.`` While we understand why some might believe they are an endogenic system, ``please approach us with caution.`` Claiming to be endogenic for personal gain is ``not something we condone.`` ${{\color{gray}{\texttt{𝙙𝙣𝙞}}}}$ .ᐟ.ᐟ
 
-${{\color{cyan}{\texttt{⊹ ◟ ⭐ ◝ — }}}}$ 𝙒𝙚 𝙜𝙤 𝙞𝙣 𝙖𝙣𝙙 𝙤𝙪𝙩 𝙤𝙛 𝙙𝙤𝙧𝙢𝙖𝙣𝙘𝙮 𝙤𝙛𝙩𝙚𝙣, 𝙣𝙤𝙗𝙤𝙙𝙮 𝙝𝙤𝙡𝙙𝙨 𝙩𝙝𝙚 ' ${{\color{cyan}{\texttt{𝙝𝙤𝙨𝙩}}}}$ ' 𝙧𝙤𝙡𝙚 ***due to*** 𝙩𝙝𝙞𝙨.
-
+${{\color{cyan}{\texttt{⊹ ◟ ⭐ ◝ — }}}}$ 𝙒𝙚 𝙜𝙤 𝙞𝙣 𝙖𝙣𝙙 𝙤𝙪𝙩 𝙤𝙛 𝙙𝙤𝙧𝙢𝙖𝙣𝙘𝙮 𝙤𝙛𝙩𝙚𝙣,  ' ${{\color{cyan}{\texttt{--}}}}$ 
 ${{\color{blue}{\texttt{╰┈➤}}}}$ <sub>${{\color{gray}{\texttt{𝐓𝐨𝐧𝐞 𝐭𝐚𝐠𝐬 𝐚𝐫𝐞 𝐠𝐫𝐞𝐚𝐭𝐥𝐲 𝐚𝐩𝐩𝐫𝐞𝐜𝐢𝐚𝐭𝐞𝐝, 𝐭𝐡𝐨𝐮𝐠𝐡 𝐛𝐞 𝐰𝐚𝐫𝐲 𝐬𝐨𝐦𝐞 𝐨𝐟 𝐮𝐬 𝐝𝐨𝐧'𝐭 𝐮𝐬𝐞 𝐭𝐨𝐧𝐞 𝐭𝐚𝐠𝐬.}}}}$ </sub> ${{\color{cyan}{\texttt{⤵}}}}$
 
 
 ${{\color{cyan}{\texttt{𝙇𝙞𝙣𝙠𝙨}}}}$ ${{\color{blue}{\texttt{╰⭑.ᐟ𓂃}}}}$ ${{\color{cyan}{\texttt{: :}}}}$ {  [Link Tree](https://linktr.ee/FormTak3rzz)
  } . . . { [Ata](https://ssc.atabook.org/) }
   . . . { [Strawpage](https://luminescentoceans.straw.page/) }
-  . . . { [Front / Sys info](https://pluralkit.xyz/f/gkrvpo) }
-  . . . { [Prns.cc (wip)](https://pronouns.cc/@Luminescent_Oceans_Sys) }
+  . . . { [Front / Sys info](https://pluralkit.xyz/f/gkrvpo) } - ``PlurakKit is often outdated/innacurate. We heavily rely on Simply Plural and often times forget to update PluralKit.``
 
 # <p align="center"> ${{\color{#0e1271}\Huge{\texttt{╚════·:·.✧}}}}$ ${{\color{#59A1C1}\Huge{\texttt{  𐔌   .  ⋮ }}}}$ ${{\color{cyan}\Huge{\texttt{𝙄𝙣𝙛𝙤}}}}$ ${{\color{#59A1C1}\Huge{\texttt{  .ᐟ  ֹ   ₊ ꒱ }}}}$  ${{\color{#0e1271}\Huge{\texttt{✧.·:·════╝}}}}$ </p>
 
@@ -61,29 +63,18 @@ ${{\color{cyan}{\texttt{𝙇𝙞𝙣𝙠𝙨}}}}$ ${{\color{blue}{\texttt{╰⭑
 
 # <p align="center"> ${{\color{#0e1271}\Huge{\texttt{╔═════ ≪}}}}$ ${{\color{#59A1C1}\Huge{\texttt{  𐔌   .  ⋮ }}}}$ ${{\color{cyan}\Huge{\texttt{𝙀𝙭𝙩𝙧𝙖}}}}$ ${{\color{#59A1C1}\Huge{\texttt{  .ᐟ  ֹ   ₊ ꒱ }}}}$ ${{\color{#0e1271}\Huge{\texttt{≫ ═════╗}}}}$</p>
 
-Ill be doing README repository requests for free in the near future ``maybe when were done with the millions of tasks we have to do``
-
-You can also request spotify playlists on our strawpage!! ``may take a while for a reply and creation``
+Some members have their own repositories, ``@`` in the company category to the left under profiles.
 
 # <p align="center"> ${{\color{#0e1271}\Huge{\texttt{╚════·:·.✧}}}}$ ${{\color{#59A1C1}\Huge{\texttt{  𐔌   .  ⋮ }}}}$ ${{\color{cyan}\Huge{\texttt{𝙀𝙭𝙩𝙧𝙖}}}}$ ${{\color{#59A1C1}\Huge{\texttt{  .ᐟ  ֹ   ₊ ꒱ }}}}$  ${{\color{#0e1271}\Huge{\texttt{✧.·:·════╝}}}}$ </p>
 
 
-<div align="left">
-  
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=00ffff)](https://github.com/kittinan/spotify-github-profile) </div>
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=ff00c8&bar_color_cover=false" 
+     width="550" 
+     height="500" />
+</p>
 
-<div align="left">
+<div align="center">
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuminescentOceansSys&show_icons=true&theme=vue-dark) </div>
 
-
-
-
-<div align=center>
- iwc ar all time ok lallalaa
-</div>
-
-
-<sub>
-text, test app 1 x q, p
-</sub>
