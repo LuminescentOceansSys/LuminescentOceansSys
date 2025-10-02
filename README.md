@@ -46,7 +46,7 @@ ${{\color{blue}{\texttt{╰┈➤}}}}$ <sub>${{\color{gray}{\texttt{𝐓𝐨𝐧
 
 
 ${{\color{cyan}{\texttt{𝙇𝙞𝙣𝙠𝙨}}}}$ ${{\color{blue}{\texttt{╰⭑.ᐟ𓂃}}}}$ ${{\color{cyan}{\texttt{: :}}}}$ {  . . . { [Ata](https://ssc.atabook.org/) }
-  . . . { [Front / Sys info](https://pluralkit.xyz/f/gkrvpo) } - ``PlurakKit is often outdated/innacurate. We heavily rely on Simply Plural and often times forget to update PluralKit.``
+  . . . { [Front / Sys info](https://pluralkit.xyz/f/gkrvpo) }   . . . { [collective rentry](https://rentry.co/LuminescentOceans) } - ``PlurakKit is often outdated/innacurate. We heavily rely on Simply Plural and often times forget to update PluralKit.``
 
 # <p align="center"> ${{\color{#0e1271}\Huge{\texttt{╚════·:·.✧}}}}$ ${{\color{#59A1C1}\Huge{\texttt{  𐔌   .  ⋮ }}}}$ ${{\color{cyan}\Huge{\texttt{𝙄𝙣𝙛𝙤}}}}$ ${{\color{#59A1C1}\Huge{\texttt{  .ᐟ  ֹ   ₊ ꒱ }}}}$  ${{\color{#0e1271}\Huge{\texttt{✧.·:·════╝}}}}$ </p>
 
