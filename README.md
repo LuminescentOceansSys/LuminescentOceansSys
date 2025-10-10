@@ -20,7 +20,7 @@
  
 <sub> ${{\color{gray}{\texttt{Fict/Intrj hvy to neurodivergency}}}}$ </sub>
 
- <p> ${{\color{blue}{\texttt{𝔻.𝕀.𝔻.}}}}$ ${{\color{cyan}{\texttt{𝕤𝕪𝕤 , }}}}$ ${{\color{blue}{\texttt{𝕕𝕚𝕒𝕘𝕟𝕠𝕤𝕖𝕕}}}}$ ${{\color{cyan}{\texttt{×}}}}$ ${{\color{blue}{\texttt{𝕓𝕠𝕕𝕚𝕝𝕪 𝕞𝕚𝕟𝕠𝕣,}}}}$</p>
+ <p> ${{\color{blue}{\texttt{𝔻.𝕀.𝔻.}}}}$ ${{\color{cyan}{\texttt{𝕤𝕪𝕤}}}}$  ${{\color{cyan}{\texttt{×}}}}$ ${{\color{blue}{\texttt{𝕓𝕠𝕕𝕚𝕝𝕪 𝕞𝕚𝕟𝕠𝕣,}}}}$</p>
 
  <div align="center">
             
