@@ -41,7 +41,7 @@ We live with mental disabilities and significantly ``struggle with our mental he
 
    ${{\color{blue}{\texttt{┆ ⤿ 💌 ⌗ }}}}$ ``Endogenic systems are on thin ice.`` While we understand why some might believe they are an endogenic system, ``please approach us with caution.`` Claiming to be endogenic for personal gain is ``not something we condone.`` ${{\color{gray}{\texttt{𝙙𝙣𝙞}}}}$ .ᐟ.ᐟ
 
-${{\color{blue}{\texttt{╰┈➤}}}}$ <sub>${{\color{gray}{\texttt{𝐓𝐨𝐧𝐞 𝐭𝐚𝐠𝐬 𝐚𝐫𝐞 𝐠𝐫𝐞𝐚𝐭𝐥𝐲 𝐚𝐩𝐩𝐫𝐞𝐜𝐢𝐚𝐭𝐞𝐝, 𝐭𝐡𝐨𝐮𝐠𝐡 𝐛𝐞 𝐰𝐚𝐫𝐲 𝐬𝐨𝐦𝐞 𝐨𝐟 𝐮𝐬 𝐝𝐨𝐧'𝐭 𝐮𝐬𝐞 𝐭𝐨𝐧𝐞 𝐭𝐚𝐠𝐬.}}}}$ </sub> ${{\color{cyan}{\texttt{⤵}}}}$
+${{\color{blue}{\texttt{╰┈➤}}}}$ <sub>${{\color{gray}{\texttt{𝐓𝐨𝐧𝐞 𝐭𝐚𝐠𝐬 𝐚𝐫𝐞 𝐠𝐫𝐞𝐚𝐭𝐥𝐲 𝐚𝐩𝐩𝐫𝐞𝐜𝐢𝐚𝐭𝐞𝐝.}}}}$ </sub> ${{\color{cyan}{\texttt{⤵}}}}$
 
 
 ${{\color{cyan}{\texttt{𝙇𝙞𝙣𝙠𝙨}}}}$ ${{\color{blue}{\texttt{╰⭑.ᐟ𓂃}}}}$ ${{\color{cyan}{\texttt{: :}}}}$ {  . . . { [Ata](https://ssc.atabook.org/) }
