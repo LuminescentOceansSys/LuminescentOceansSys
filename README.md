@@ -1,4 +1,6 @@
 <div align="center">
+
+# Warning rentry about the user batisKRAZY :: https://rentry.co/KrazyIsCrazy
   
 ![Bioplankton](https://komarev.com/ghpvc/?username=LuminescentOceansSys&color=0e1271) </div>
 
