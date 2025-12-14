@@ -8,64 +8,33 @@
 <p align="center"> <a href="https://pluralkit.xyz/f/gkrvpo"><img src="https://files.catbox.moe/urfm57.png"/> <a href="https://rentry.co/LuminescentOceans"><img src="https://files.catbox.moe/1s9h32.png"/> <a href="https://luminescentoceans.atabook.org/"><img src="https://files.catbox.moe/gv77ql.png"/> </p>
   
 <div align="center">
-
- <p align="center">
-  <img src="https://github.com/user-attachments/assets/89a68ef9-ba7d-49d2-89bd-84bec8f0b91a" 
-     width="580" 
-     height="500" />
-</p>
-
-
-<div align="center">
 <table border="2">
      <tr>
        <td>
          <br>
          <img src="https://files.catbox.moe/bchwwj.png"/> 
-<p align="center"> <kbd>${{\color{blue}{\texttt{𝔻.𝕀.𝔻.}}}}$ ${{\color{cyan}{\texttt{𝕤𝕪𝕤}}}}$  ${{\color{cyan}{\texttt{×}}}}$ ${{\color{blue}{\texttt{𝕓𝕠𝕕𝕚𝕝𝕪 𝕞𝕚𝕟𝕠𝕣,}}}}$
-  Ocean    or    Luminescent   Collectively                        
+<p align="center"> <kbd>${{\color{blue}{\texttt{𝔻𝕀𝔻}}}}$ ${{\color{cyan}{\texttt{𝕤𝕪𝕤}}}}$  ${{\color{cyan}{\texttt{++}}}}$ ${{\color{blue}{\texttt{𝕞𝕚𝕟𝕠𝕣 𝕓𝕠𝕕𝕚𝕝𝕪}}}}$ //
+  ${{\color{blue}{\texttt{Ocean}}}}$    ${{\color{cyan}{\texttt{or}}}}$    ${{\color{blue}{\texttt{Luminescent}}}}$   ${{\color{cyan}{\texttt{Collectively}}}}$ // ${{\color{blue}{\texttt{They}}}}$ , ${{\color{cyan}{\texttt{them}}}}$ , ${{\color{blue}{\texttt{Ask}}}}$ \\ 
+${{\color{blue}{\texttt{Some members have their own repositories}}}}$, ${{\color{cyan}{\texttt{@}}}}$ ${{\color{blue}{\texttt{in the company category to the left under profiles.}}}}$
             <br>
 <hr>
   &nbsp;</kbd>
 </p>
    </div>
-  
-- Note : This was worked on by multiple people, so the coding, and everything else is really messy. There will be grammar and coding changes.
 
-# <p align="center"> ${{\color{#0e1271}\Huge{\texttt{╔═════ ≪}}}}$ ${{\color{#59A1C1}\Huge{\texttt{  𐔌   .  ⋮ }}}}$ ${{\color{cyan}\Huge{\texttt{𝙄𝙣𝙛𝙤}}}}$ ${{\color{#59A1C1}\Huge{\texttt{  .ᐟ  ֹ   ₊ ꒱ }}}}$ ${{\color{#0e1271}\Huge{\texttt{≫ ═════╗}}}}$</p>
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=34eeff&bar_color_cover=false" 
+     width="550" 
+     height="500" />
+</p>
 
- 
-<sub> ${{\color{gray}{\texttt{Fict/Intrj hvy to neurodivergency}}}}$ </sub>
+We want to share this openly from the start to make future interactions with new friends less awkward.
 
- <p> ${{\color{blue}{\texttt{𝔻.𝕀.𝔻.}}}}$ ${{\color{cyan}{\texttt{𝕤𝕪𝕤}}}}$  ${{\color{cyan}{\texttt{×}}}}$ ${{\color{blue}{\texttt{𝕓𝕠𝕕𝕚𝕝𝕪 𝕞𝕚𝕟𝕠𝕣,}}}}$</p>
+As neurodivergent individuals, we live with significant mental health challenges and disabilities. We specifically experience DID and quite a few suspecting co-morbid disorder, which profoundly shapes how we process information and navigate the world every single day.
 
- <div align="center">
-            
-            Ocean    or    Luminescent   Collectively                        
-            
-                        
-             <div align="center">
-               
-working on learning better html / css coding, tips appreciated
+Due to the nature of our disorder, we frequently struggle with poor memory, pronounced emotional instability, and more. This is a core part of our lives. On top of this we still live with our abusers. Therefore, we ask that you always approach us with utmost caution and care.
 
- <div align="center">
-   
-
-We want to share this openly from the start to make future interactions with new friends less awkward. And to spread awareness. ``This is a huge part of our lives and truly shapes how we process things and behave every single day.``
-
-We live with mental disabilities and significantly ``struggle with our mental health.`` As neurodivergent individuals we have a personality disorder. (DID) ``Our memory can be quite poor, and we experience emotional instability. please approach us with caution and care at all times.``
-
-
-   ${{\color{blue}{\texttt{┆ ⤿ 💌 ⌗ }}}}$ ``Endogenic systems are on thin ice.`` While we understand why some might believe they are an endogenic system, ``please approach us with caution.`` Claiming to be endogenic for personal gain is ``not something we condone.`` ${{\color{gray}{\texttt{𝙙𝙣𝙞}}}}$ .ᐟ.ᐟ
-
-${{\color{blue}{\texttt{╰┈➤}}}}$ <sub>${{\color{gray}{\texttt{𝐓𝐨𝐧𝐞 𝐭𝐚𝐠𝐬 𝐚𝐫𝐞 𝐠𝐫𝐞𝐚𝐭𝐥𝐲 𝐚𝐩𝐩𝐫𝐞𝐜𝐢𝐚𝐭𝐞𝐝.}}}}$ </sub> ${{\color{cyan}{\texttt{⤵}}}}$
-
-
-${{\color{cyan}{\texttt{𝙇𝙞𝙣𝙠𝙨}}}}$ ${{\color{blue}{\texttt{╰⭑.ᐟ𓂃}}}}$ ${{\color{cyan}{\texttt{: :}}}}$ {  . . . { [Ata](https://ssc.atabook.org/) }
-  . . . { [Front / Sys info](https://pluralkit.xyz/f/gkrvpo) }   . . . { [collective rentry](https://rentry.co/LuminescentOceans) } - ``PlurakKit is often outdated/innacurate. We heavily rely on Simply Plural and often times forget to update PluralKit.``
-
-# <p align="center"> ${{\color{#0e1271}\Huge{\texttt{╚════·:·.✧}}}}$ ${{\color{#59A1C1}\Huge{\texttt{  𐔌   .  ⋮ }}}}$ ${{\color{cyan}\Huge{\texttt{𝙄𝙣𝙛𝙤}}}}$ ${{\color{#59A1C1}\Huge{\texttt{  .ᐟ  ֹ   ₊ ꒱ }}}}$  ${{\color{#0e1271}\Huge{\texttt{✧.·:·════╝}}}}$ </p>
-
+   ${{\color{blue}{\texttt{┆ ⤿ 💌 ⌗ }}}}$ ``Endogenic systems are on thin ice.`` While we understand why some might believe they are an endogenic system, ``please approach us with caution.`` Claiming to be endogenic for personal gain is ``not something we condone.`` ${{\color{gray}{\texttt{𝙙𝙣𝙞}}}}$ .ᐟ.
 <p align="center"> $${\color{blue}
 ♡ }$$
 <p align="center"> $${\color{cyan}
@@ -75,18 +44,6 @@ ${{\color{cyan}{\texttt{𝙇𝙞𝙣𝙠𝙨}}}}$ ${{\color{blue}{\texttt{╰⭑
 <p align="center"> $${\color{cyan}
   ⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵. ˚ ₊⊹  }$$
 
-# <p align="center"> ${{\color{#0e1271}\Huge{\texttt{╔═════ ≪}}}}$ ${{\color{#59A1C1}\Huge{\texttt{  𐔌   .  ⋮ }}}}$ ${{\color{cyan}\Huge{\texttt{𝙀𝙭𝙩𝙧𝙖}}}}$ ${{\color{#59A1C1}\Huge{\texttt{  .ᐟ  ֹ   ₊ ꒱ }}}}$ ${{\color{#0e1271}\Huge{\texttt{≫ ═════╗}}}}$</p>
-
-Some members have their own repositories, ``@`` in the company category to the left under profiles.
-
-# <p align="center"> ${{\color{#0e1271}\Huge{\texttt{╚════·:·.✧}}}}$ ${{\color{#59A1C1}\Huge{\texttt{  𐔌   .  ⋮ }}}}$ ${{\color{cyan}\Huge{\texttt{𝙀𝙭𝙩𝙧𝙖}}}}$ ${{\color{#59A1C1}\Huge{\texttt{  .ᐟ  ֹ   ₊ ꒱ }}}}$  ${{\color{#0e1271}\Huge{\texttt{✧.·:·════╝}}}}$ </p>
-
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=ff00c8&bar_color_cover=false" 
-     width="550" 
-     height="500" />
-</p>
 
 <div align="center">
   
