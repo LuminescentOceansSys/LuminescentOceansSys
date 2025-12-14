@@ -14,7 +14,13 @@
          <br>
          <img src="https://files.catbox.moe/bchwwj.png"/> 
 <p align="center"> <kbd>${{\color{blue}{\texttt{𝔻𝕀𝔻}}}}$ ${{\color{cyan}{\texttt{𝕤𝕪𝕤}}}}$  ${{\color{cyan}{\texttt{++}}}}$ ${{\color{blue}{\texttt{𝕞𝕚𝕟𝕠𝕣 𝕓𝕠𝕕𝕚𝕝𝕪}}}}$ //
-  ${{\color{blue}{\texttt{Ocean}}}}$    ${{\color{cyan}{\texttt{or}}}}$    ${{\color{blue}{\texttt{Luminescent}}}}$   ${{\color{cyan}{\texttt{Collectively}}}}$ // ${{\color{blue}{\texttt{They}}}}$ , ${{\color{cyan}{\texttt{them}}}}$ , ${{\color{blue}{\texttt{Ask}}}}$ \\ 
+  ${{\color{blue}{\texttt{Ocean}}}}$    ${{\color{cyan}{\texttt{or}}}}$    ${{\color{blue}{\texttt{Luminescent}}}}$   ${{\color{cyan}{\texttt{Collectively}}}}$ // ${{\color{blue}{\texttt{They}}}}$ , ${{\color{cyan}{\texttt{them}}}}$ , ${{\color{blue}{\texttt{Ask}}}}$ \\    
+    
+    
+    
+    
+    
+    
 ${{\color{blue}{\texttt{Some members have their own repositories}}}}$, ${{\color{cyan}{\texttt{@}}}}$ ${{\color{blue}{\texttt{in the company category to the left under profiles.}}}}$
             <br>
 <hr>
