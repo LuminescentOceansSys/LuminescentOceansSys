@@ -1,11 +1,11 @@
-<div align="center">
 
-# Warning rentry about the user batisKRAZY :: https://rentry.co/KrazyIsCrazy
-  
-![Bioplankton](https://komarev.com/ghpvc/?username=LuminescentOceansSys&color=0e1271) </div>
 
-<p align="center"> ${{\color{blue}\Huge{\texttt{"𝑰𝒏 𝒕𝒉𝒆 𝒒𝒖𝒊𝒆𝒕 𝒔𝒉𝒊𝒎𝒎𝒆𝒓 𝒐𝒇 𝒘𝒉𝒂𝒕 𝒐𝒏𝒄𝒆 𝒘𝒂𝒔,}}}}$ </p>
-<p align="center"> ${{\color{cyan}\Huge{\texttt{𝒂 𝒇𝒂𝒎𝒊𝒍𝒊𝒂𝒓 𝒍𝒊𝒈𝒉𝒕 𝒔𝒕𝒊𝒍𝒍 𝒔𝒐𝒇𝒕𝒍𝒚 𝒄𝒂𝒍𝒍𝒔 𝒎𝒆 𝒉𝒐𝒎𝒆."}}}}$ </p>
+<p align="center"> ⋅⋅ ───────── ⋅  <img src="https://i.ibb.co/HDGMGJm/473931-D2-BD1-C-4-A09-BCCE-BFA18662-A99-B.gif"/> ⋅ ───────── ⋅⋅ </p>
+<p align="center"> ${{\color{blue}{\texttt{"𝑰𝒏 𝒕𝒉𝒆 𝒒𝒖𝒊𝒆𝒕 𝒔𝒉𝒊𝒎𝒎𝒆𝒓 𝒐𝒇 𝒘𝒉𝒂𝒕 𝒐𝒏𝒄𝒆 𝒘𝒂𝒔,}}}}$ </p>
+<p align="center"> ${{\color{cyan}{\texttt{𝒂 𝒇𝒂𝒎𝒊𝒍𝒊𝒂𝒓 𝒍𝒊𝒈𝒉𝒕 𝒔𝒕𝒊𝒍𝒍 𝒔𝒐𝒇𝒕𝒍𝒚 𝒄𝒂𝒍𝒍𝒔 𝒎𝒆 𝒉𝒐𝒎𝒆."}}}}$ </p>
+<p align="center"> <img src="https://files.catbox.moe/equy07.gif"/> }┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈{ <img src="https://files.catbox.moe/il5535.gif"/> </p>
+
+<p align="center"> <a href="https://pluralkit.xyz/f/gkrvpo"><img src="https://files.catbox.moe/urfm57.png"/> <a href="https://rentry.co/LuminescentOceans"><img src="https://files.catbox.moe/1s9h32.png"/> <a href="https://luminescentoceans.atabook.org/"><img src="https://files.catbox.moe/gv77ql.png"/> </p>
   
 <div align="center">
 
@@ -15,6 +15,21 @@
      height="500" />
 </p>
 
+
+<div align="center">
+<table border="2">
+     <tr>
+       <td>
+         <br>
+         <img src="https://files.catbox.moe/bchwwj.png"/> 
+<p align="center"> <kbd>${{\color{blue}{\texttt{𝔻.𝕀.𝔻.}}}}$ ${{\color{cyan}{\texttt{𝕤𝕪𝕤}}}}$  ${{\color{cyan}{\texttt{×}}}}$ ${{\color{blue}{\texttt{𝕓𝕠𝕕𝕚𝕝𝕪 𝕞𝕚𝕟𝕠𝕣,}}}}$
+  Ocean    or    Luminescent   Collectively                        
+            <br>
+<hr>
+  &nbsp;</kbd>
+</p>
+   </div>
+  
 - Note : This was worked on by multiple people, so the coding, and everything else is really messy. There will be grammar and coding changes.
 
 # <p align="center"> ${{\color{#0e1271}\Huge{\texttt{╔═════ ≪}}}}$ ${{\color{#59A1C1}\Huge{\texttt{  𐔌   .  ⋮ }}}}$ ${{\color{cyan}\Huge{\texttt{𝙄𝙣𝙛𝙤}}}}$ ${{\color{#59A1C1}\Huge{\texttt{  .ᐟ  ֹ   ₊ ꒱ }}}}$ ${{\color{#0e1271}\Huge{\texttt{≫ ═════╗}}}}$</p>
