@@ -37,10 +37,6 @@ ${{\color{blue}{\texttt{Some members have their own repositories}}}}$, ${{\color
   &nbsp;</kbd>
 </p>
    </div>
-
-![](https://files.catbox.moe/ivakeg.gifv) ![](https://files.catbox.moe/0fgq8z.gifv) ![LAPFOX](https://files.catbox.moe/zhzfhl.pnj) ![](https://files.catbox.moe/o2eb8y.gifv)
-![](https://files.catbox.moe/cztmbo.gif) ![Internet NOW! Internet explorer](https://files.catbox.moe/ss7vps.jpg) ![](https://files.catbox.moe/1ouoj9.gif)
-![](https://files.catbox.moe/5ztryy.gif)
   
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=34eeff&bar_color_cover=false" 
