@@ -29,29 +29,18 @@ ${{\color{blue}{\texttt{Some members have their own repositories}}}}$, ${{\color
             <br>
 <hr>
   &nbsp;</kbd>
-</p>
-   </div>
 
-   <div align="center">
-<table border="2">
-     <tr>
-       <td>
-         <br>
-         <img src="https://files.catbox.moe/bchwwj.png"/> 
-<p align="center"> <kbd>${{\color{blue}{\texttt{𝔻𝕀𝔻}}}}$ ${{\color{cyan}{\texttt{𝕤𝕪𝕤}}}}$  ${{\color{cyan}{\texttt{++}}}}$ ${{\color{blue}{\texttt{𝕞𝕚𝕟𝕠𝕣 𝕓𝕠𝕕𝕚𝕝𝕪}}}}$ //
-  ${{\color{blue}{\texttt{Ocean}}}}$    ${{\color{cyan}{\texttt{or}}}}$    ${{\color{blue}{\texttt{Luminescent}}}}$   ${{\color{cyan}{\texttt{Collectively}}}}$ // ${{\color{blue}{\texttt{They}}}}$ , ${{\color{cyan}{\texttt{them}}}}$ , ${{\color{blue}{\texttt{Ask}}}}$ \\    
-    
-    
-    
-    
-    
-    
-${{\color{blue}{\texttt{Some members have their own repositories}}}}$, ${{\color{cyan}{\texttt{@}}}}$ ${{\color{blue}{\texttt{in the company category to the left under profiles.}}}}$
+  <img src="https://files.catbox.moe/noqhlt.png"/> 
+  <p align="center"> <kbd>${{\color{blue}{\texttt{Transformers}}}}$ ${{\color{cyan}{\texttt{Minecraft Story Mode}}}}$ ${{\color{blue}{\texttt{Unorthrodox Accounting}}}}$ ${{\color{cyan}{\texttt{Bugs}}}}$ ${{\color{blue}{\texttt{Flamingo, Jayingee, Schlatt (youtubers)}}}}$ ${{\color{cyan}{\texttt{Xbox 360}}}}$ ${{\color{blue}{\texttt{Music}}}}$
             <br>
 <hr>
   &nbsp;</kbd>
 </p>
    </div>
+
+![](https://files.catbox.moe/ivakeg.gifv) ![](https://files.catbox.moe/0fgq8z.gifv) ![LAPFOX](https://files.catbox.moe/zhzfhl.pnj) ![](https://files.catbox.moe/o2eb8y.gifv)
+![](https://files.catbox.moe/cztmbo.gif) ![Internet NOW! Internet explorer](https://files.catbox.moe/ss7vps.jpg) ![](https://files.catbox.moe/1ouoj9.gif)
+![](https://files.catbox.moe/5ztryy.gif)
   
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=34eeff&bar_color_cover=false" 
