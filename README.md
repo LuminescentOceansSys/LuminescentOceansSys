@@ -6,6 +6,7 @@
 <p align="center"> <img src="https://files.catbox.moe/equy07.gif"/> }┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈{ <img src="https://files.catbox.moe/il5535.gif"/> </p>
 
 <p align="center"> <a href="https://pluralkit.xyz/f/gkrvpo"><img src="https://files.catbox.moe/urfm57.png"/> <a href="https://rentry.co/LuminescentOceans"><img src="https://files.catbox.moe/1s9h32.png"/> <a href="https://luminescentoceans.atabook.org/"><img src="https://files.catbox.moe/gv77ql.png"/> </p>
+[Strawpage (sorry this doesn't have a button)](https://beachcomberlover.straw.page/)
 
 <p align="Center">
 <img src="https://komarev.com/ghpvc/?username=LuminescentOceansSys&label=Phytoplankton&color=34eeff"
