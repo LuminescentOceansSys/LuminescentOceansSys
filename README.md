@@ -50,7 +50,7 @@ ${{\color{blue}{\texttt{Some members have their own repositories}}}}$, ${{\color
 
 We want to share this openly from the start to make future interactions with new friends less awkward.
 
-As neurodivergent individuals, we live with significant mental health challenges and disabilities. We specifically experience DID and quite a few suspecting co-morbid disorder, which profoundly shapes how we process information and navigate the world every single day.
+As neurodivergent individuals, we live with significant mental health challenges and disabilities. We specifically experience DID and quite a few suspecting co-morbid disorders which profoundly shapes how we process information and navigate the world every single day.
 
 Due to the nature of our disorder, we frequently struggle with poor memory, pronounced emotional instability, and more. This is a core part of our lives. On top of this we still live with our abusers. Therefore, we ask that you always approach us with utmost caution and care.
 
