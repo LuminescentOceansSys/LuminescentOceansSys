@@ -17,7 +17,7 @@
          <br>
          <img src="https://files.catbox.moe/bchwwj.png"/> 
 <p align="center"> <kbd>${{\color{blue}{\texttt{𝔻𝕀𝔻}}}}$ ${{\color{cyan}{\texttt{𝕤𝕪𝕤}}}}$  ${{\color{cyan}{\texttt{++}}}}$ ${{\color{blue}{\texttt{𝕞𝕚𝕟𝕠𝕣 𝕓𝕠𝕕𝕚𝕝𝕪}}}}$ //
-  ${{\color{blue}{\texttt{Ocean}}}}$    ${{\color{cyan}{\texttt{or}}}}$    ${{\color{blue}{\texttt{Luminescent}}}}$   ${{\color{cyan}{\texttt{Collectively}}}}$ // ${{\color{blue}{\texttt{They}}}}$ , ${{\color{cyan}{\texttt{them}}}}$ , ${{\color{blue}{\texttt{Ask}}}}$ \\    
+  ${{\color{blue}{\texttt{Ocean}}}}$    ${{\color{cyan}{\texttt{or}}}}$    ${{\color{blue}{\texttt{Luminescent}}}}$   ${{\color{cyan}{\texttt{Collectively}}}}$ // ${{\color{blue}{\texttt{They}}}}$ , ${{\color{cyan}{\texttt{xe}}}$ , ${{\color{blue}{\texttt{Ask}}}}$ \\    
     
     
     
@@ -41,6 +41,7 @@ ${{\color{blue}{\texttt{Some members have their own repositories}}}}$, ${{\color
   <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=34eeff&bar_color_cover=false" 
      width="550" 
      height="500" />
+  im trying to figure out why in the hell this is stretched give me4 business days
 </p>
 
 # <p align="center">
