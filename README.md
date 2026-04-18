@@ -5,12 +5,11 @@
 <p align="center"> ${{\color{cyan}{\texttt{𝒂 𝒇𝒂𝒎𝒊𝒍𝒊𝒂𝒓 𝒍𝒊𝒈𝒉𝒕 𝒔𝒕𝒊𝒍𝒍 𝒔𝒐𝒇𝒕𝒍𝒚 𝒄𝒂𝒍𝒍𝒔 𝒎𝒆 𝒉𝒐𝒎𝒆."}}}}$ </p>
 <p align="center"> <img src="https://files.catbox.moe/equy07.gif"/> }┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈{ <img src="https://files.catbox.moe/il5535.gif"/> </p>
 
-<p align="center"> <a href="https://pluralkit.xyz/f/gkrvpo"><img src="https://files.catbox.moe/urfm57.png"/>
-  
-  [go look at my buttonless carrd](https://luminescent-oceans.carrd.co/#)
-<p align="Center">
-<img src="https://komarev.com/ghpvc/?username=LuminescentOceansSys&label=Phytoplankton&color=34eeff"
-  </p>
+<p align="center"> <a href="https://pluralkit.xyz/f/gkrvpo"><img src="https://files.catbox.moe/vjqpsk.png"style="width: 12vw; min-width: 12px;" /> <p align="center"> <a href="https://luminescent-oceans.carrd.co/#"><img src="https://files.catbox.moe/mvoosp.png"style="width: 12vw; min-width: 12px;" />
+
+
+<img src="https://komarev.com/ghpvc/?username=LuminescentOceansSys&label=Phytoplankton&color=34eeff"/>
+</p>
   
 <div align="center">
 <table border="2">
