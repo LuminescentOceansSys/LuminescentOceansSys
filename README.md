@@ -4,13 +4,11 @@
 <p align="center"> ${{\color{blue}{\texttt{"𝑰𝒏 𝒕𝒉𝒆 𝒒𝒖𝒊𝒆𝒕 𝒔𝒉𝒊𝒎𝒎𝒆𝒓 𝒐𝒇 𝒘𝒉𝒂𝒕 𝒐𝒏𝒄𝒆 𝒘𝒂𝒔,}}}}$ </p>
 <p align="center"> ${{\color{cyan}{\texttt{𝒂 𝒇𝒂𝒎𝒊𝒍𝒊𝒂𝒓 𝒍𝒊𝒈𝒉𝒕 𝒔𝒕𝒊𝒍𝒍 𝒔𝒐𝒇𝒕𝒍𝒚 𝒄𝒂𝒍𝒍𝒔 𝒎𝒆 𝒉𝒐𝒎𝒆."}}}}$ </p>
 <p align="center"> <img src="https://files.catbox.moe/equy07.gif"/> }┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈{ <img src="https://files.catbox.moe/il5535.gif"/> </p>
-
-<p align="center"> <a href="https://pluralkit.xyz/f/gkrvpo"><img src="https://files.catbox.moe/vjqpsk.png"style="width: 12vw; min-width: 12px;" /> <p align="center"> <a href="https://luminescent-oceans.carrd.co/#"><img src="https://files.catbox.moe/mvoosp.png"style="width: 12vw; min-width: 12px;" />
-
-
-<img src="https://komarev.com/ghpvc/?username=LuminescentOceansSys&label=Phytoplankton&color=34eeff"/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=LuminescentOceansSys&label=Phytoplankton&color=34eeff"/>
 </p>
-  
+<p align="center"> <a href="https://pluralkit.xyz/f/gkrvpo"><img src="https://files.catbox.moe/vjqpsk.png"style="width: 10vw; min-width: 10px;" /> <p align="center"><a href="https://luminescent-oceans.carrd.co/#"><img src="https://files.catbox.moe/mvoosp.png"style="width: 10vw; min-width: 10px;" />
+</p>
+
 <div align="center">
 <table border="2">
      <tr>
@@ -23,15 +21,26 @@
     
     
     
+        
     
     
-${{\color{blue}{\texttt{Some members have their own repositories}}}}$, ${{\color{cyan}{\texttt{@}}}}$ ${{\color{blue}{\texttt{in the company category to the left under profiles.}}}}$
-            <br>
+    
+    
+    
+    
+${{\color{blue}{\texttt{Some members have their own repositories}}}}$, ${{\color{cyan}{\texttt{@}}}}$ ${{\color{blue}{\texttt{in the company category to the left under profiles.}}}}$    
+    
+    
+        
+   
+    
+  ${{\color{cyan}{\texttt{artist in several fields, writer, animator, editor and entry-level HTML-CSS web developer/designer. (all self-taught)}}}}$ // ${{\color{blue}{\texttt{highly suspected MDD + C-PTSD}}}}$
+  <br>
 <hr>
   &nbsp;</kbd>
 
   <img src="https://files.catbox.moe/noqhlt.png"/> 
-  <p align="center"> <kbd>${{\color{blue}{\texttt{Transformers}}}}$ ${{\color{cyan}{\texttt{Minecraft Story Mode}}}}$ ${{\color{blue}{\texttt{Unorthrodox Accounting}}}}$ ${{\color{cyan}{\texttt{Bugs}}}}$ ${{\color{blue}{\texttt{Flamingo, Jayingee, Schlatt (youtubers)}}}}$ ${{\color{cyan}{\texttt{Xbox 360}}}}$ ${{\color{blue}{\texttt{Music}}}}$
+  <p align="center"> <kbd>${{\color{blue}{\texttt{Transformers}}}}$ ${{\color{cyan}{\texttt{Minecraft Story Mode}}}}$ ${{\color{blue}{\texttt{Unorthrodox Accounting}}}}$ ${{\color{cyan}{\texttt{Bugs}}}}$ ${{\color{blue}{\texttt{Wings}}}}$ ${{\color{cyan}{\texttt{Xbox 360}}}}$ ${{\color{blue}{\texttt{Music}}}}$ ${{\color{cyan}{\texttt{Roblox ARGs}}}}$ ${{\color{blue}{\texttt{Minecraft ARGs}}}}$ ${{\color{cyan}{\texttt{Team Fortress 2}}}}$ ${{\color{blue}{\texttt{LEGO DreamzZZ}}}}$ ${{\color{cyan}{\texttt{LEGO Ninjago}}}}$
             <br>
 <hr>
   &nbsp;</kbd>
@@ -41,8 +50,8 @@ ${{\color{blue}{\texttt{Some members have their own repositories}}}}$, ${{\color
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=34eeff&bar_color_cover=false" 
      width="550" 
-     height="500" />
-  im trying to figure out why in the hell this is stretched give me4 business days
+     height="150" />
+  whats currently playing on spotify
 </p>
 
 # <p align="center">
