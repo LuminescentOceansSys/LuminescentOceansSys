@@ -41,7 +41,7 @@ ${{\color{blue}{\texttt{Some members have their own repositories}}}}$, ${{\color
   &nbsp;</kbd>
 
   <img src="https://files.catbox.moe/noqhlt.png"/> 
-  <p align="center"> <kbd>${{\color{blue}{\texttt{Transformers}}}}$ ${{\color{cyan}{\texttt{Minecraft Story Mode}}}}$ ${{\color{blue}{\texttt{Unorthrodox Accounting}}}}$ ${{\color{cyan}{\texttt{Bugs}}}}$ ${{\color{blue}{\texttt{Wings}}}}$ ${{\color{cyan}{\texttt{Xbox 360}}}}$ ${{\color{blue}{\texttt{Music}}}}$ ${{\color{cyan}{\texttt{Roblox ARGs}}}}$ ${{\color{blue}{\texttt{Minecraft ARGs}}}}$ ${{\color{cyan}{\texttt{Team Fortress 2}}}}$ ${{\color{blue}{\texttt{LEGO DreamzZZ}}}}$ ${{\color{cyan}{\texttt{LEGO Ninjago}}}}$ ${{\color{blue}{\texttt{Kipo and the Age of Wonderbeasts}}}}$ ${{\color{cyan}{\texttt{Osmosis Jones}}}}$ ${{\color{blue}{\texttt{Viva Piñata (2006/OG)}}}}$ ${{\color{cyan}{\texttt{Halo}}}}$
+  <p align="center"> <kbd>${{\color{blue}{\texttt{Transformers}}}}$ ${{\color{cyan}{\texttt{Minecraft Story Mode}}}}$ ${{\color{blue}{\texttt{Unorthrodox Accounting}}}}$ ${{\color{cyan}{\texttt{Bugs}}}}$ ${{\color{blue}{\texttt{Wings}}}}$ ${{\color{cyan}{\texttt{Xbox 360}}}}$ ${{\color{blue}{\texttt{Music}}}}$ ${{\color{cyan}{\texttt{Roblox ARGs}}}}$ ${{\color{blue}{\texttt{Minecraft ARGs}}}}$ ${{\color{cyan}{\texttt{Team Fortress 2}}}}$ ${{\color{blue}{\texttt{LEGO DreamzZZ}}}}$ ${{\color{cyan}{\texttt{LEGO Ninjago}}}}$ ${{\color{blue}{\texttt{Kipo and the Age of Wonderbeasts}}}}$ ${{\color{cyan}{\texttt{Osmosis Jones}}}}$ ${{\color{blue}{\texttt{Viva Piñata (2006/OG)}}}}$ ${{\color{cyan}{\texttt{Halo}}}}$ ${{\color{blue}{\texttt{The Electric State}}}}$
             <br>
 <hr>
   &nbsp;</kbd>
