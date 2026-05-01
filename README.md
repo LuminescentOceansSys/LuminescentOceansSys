@@ -59,9 +59,11 @@ ${{\color{blue}{\texttt{Some members have their own repositories}}}}$, ${{\color
 
 We want to share this openly from the start to make future interactions with new friends less awkward.
 
-As neurodivergent individuals, we live with significant mental health challenges and disabilities. We specifically experience DID and quite a few suspecting co-morbid disorders which profoundly shapes how we process information and navigate the world every single day.
+As neurodivergent individuals, we live with significant mental health disabilities. We specifically experience DID and quite a few suspecting co-morbid disorders which profoundly shapes how we live every single day.
 
-Due to the nature of our disorder, we frequently struggle with poor memory, pronounced emotional instability, and more. This is a core part of our lives. On top of this we still live with our abusers. Therefore, we ask that you always approach us with utmost caution and care.
+Due to our disorder, we frequently struggle with poor memory, mild emotional instability, and more. On top of this we still live with our abusers. Therefore, we ask that you always approach us with caution and care.
+
+Please do not refer to our 'fictives' as fictives. Please call us introjects. The term, fictive, for us is uncomfortable and we refuse to use endogenic terms, so with that please correct us if we ever do use them.
 
    ${{\color{blue}{\texttt{┆ ⤿ 💌 ⌗ }}}}$ ``Endogenic systems are on thin ice.`` While we understand why some might believe they are an endogenic system, ``please approach us with caution.`` Claiming to be endogenic for personal gain is ``not something we condone.`` ${{\color{gray}{\texttt{𝙙𝙣𝙞}}}}$ .ᐟ.
 
