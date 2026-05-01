@@ -10,12 +10,6 @@
 <p align="center"> <a href="https://pluralkit.xyz/f/gkrvpo"><img src="https://files.catbox.moe/vjqpsk.png"style="width: 10vw; min-width: 10px;" /> <p align="center"><a href="https://luminescent-oceans.carrd.co/#"><img src="https://files.catbox.moe/mvoosp.png"style="width: 10vw; min-width: 10px;" />
 </p>
 
-<p align="center">
-I need to make this VERY clear. DO NOT INTERACT if you are a Proshipper, Darkshipper, or anything similar. You all piss me off SO MUCH. ESPECIALLY IF YOU'RE AN ADULT DOING THIS. THAT IS JUST PREDATORY AND DISGUSTING. ${{\color{yellow}{\texttt{***MOST***}}}}$ unhealthy coping mechinisms are optional if you actually put in EFFORT to detatch from them, but that's a conversation you all arent't ready for. I don't want to argue about this. If you send me something on strawpage about this DNI, you will be ignored and your gimmick will be deleted. I'm not getting into some petty drama over an anonymous message. </p>
-
-<p align="center">
-Might delete this later,,,, dont know. im writing this in pure hatred rn gulppss </p>
-
 <div align="center">
 <table border="2">
      <tr>
