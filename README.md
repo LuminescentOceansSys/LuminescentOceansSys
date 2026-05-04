@@ -54,7 +54,7 @@ Due to our disorder, we frequently struggle with poor memory, mild emotional ins
 
 Please do not refer to our 'fictives' as fictives. Please call us introjects. The term, fictive, for us is uncomfortable and we refuse to use endogenic terms, so with that please correct us if we ever do use them.
 
-   ${{\color{blue}{\texttt{┆ ⤿ 💌 ⌗ }}}}$ ``Endogenic systems are on thin ice.`` This includes almost everything under the Endogenic umbrella. Such as Parogenic, Willogenic, Soulbonds, 'system hoppers', Tulpagenic, and etc.  While we understand why some might believe they are an endogenic system, ``please approach us with caution.`` Claiming to be endogenic for personal gain is ``not something we condone.`` ${{\color{yellow}{\texttt{𝙙𝙣𝙞}}}}$ .ᐟ. </div>
+   ${{\color{blue}{\texttt{┆ ⤿ 💌 ⌗ }}}}$ ``Endogenic systems are on thin ice.`` This includes almost everything under the Endogenic umbrella. Such as Parogenic, Willogenic, Soulbonds, 'system hoppers', Tulpagenic, and etc.  While we understand why some might believe they are an endogenic system, ``please approach us with caution.`` Claiming to be endogenic for personal gain is ``not something we condone.`` The main reason why we do not want you interacting with us is because we went through extreme prologned childhood trauma that is **still ongoing**. We did not just form a system because we wanted to. This is hell. And the disorder in itslef is trauma-based. .ᐟ. </div>
 
   &nbsp;</kbd>
 
