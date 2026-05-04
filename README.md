@@ -54,11 +54,11 @@ Due to our disorder, we frequently struggle with poor memory, mild emotional ins
 
 Please do not refer to our 'fictives' as fictives. Please call us introjects. The term, fictive, for us is uncomfortable and we refuse to use endogenic terms, so with that please correct us if we ever do use them.
 
-   ${{\color{blue}{\texttt{┆ ⤿ 💌 ⌗ }}}}$ ``Endogenic systems are on thin ice.`` While we understand why some might believe they are an endogenic system, ``please approach us with caution.`` Claiming to be endogenic for personal gain is ``not something we condone.`` ${{\color{gray}{\texttt{𝙙𝙣𝙞}}}}$ .ᐟ. </div>
+   ${{\color{blue}{\texttt{┆ ⤿ 💌 ⌗ }}}}$ ``Endogenic systems are on thin ice.`` This includes almost everything under the Endogenic umbrella. Such as Parogenic, Willogenic, Soulbonds, 'system hoppers', Tulpagenic, and etc.  While we understand why some might believe they are an endogenic system, ``please approach us with caution.`` Claiming to be endogenic for personal gain is ``not something we condone.`` ${{\color{yellow}{\texttt{𝙙𝙣𝙞}}}}$ .ᐟ. </div>
 
   &nbsp;</kbd>
 
-  <img src="https://files.catbox.moe/noqhlt.png"/> 
+  <img src="https://files.catbox.moe/noqhlt.png"/>  
   <p align="center"> <kbd>${{\color{blue}{\texttt{Transformers}}}}$ ${{\color{cyan}{\texttt{Minecraft Story Mode}}}}$ ${{\color{blue}{\texttt{Unorthrodox Accounting}}}}$ ${{\color{cyan}{\texttt{Bugs}}}}$ ${{\color{blue}{\texttt{Wings}}}}$ ${{\color{cyan}{\texttt{Xbox 360}}}}$ ${{\color{blue}{\texttt{Music}}}}$ ${{\color{cyan}{\texttt{Roblox ARGs}}}}$ ${{\color{blue}{\texttt{Minecraft ARGs}}}}$ ${{\color{cyan}{\texttt{Team Fortress 2}}}}$ ${{\color{blue}{\texttt{LEGO DreamzZZ}}}}$ ${{\color{cyan}{\texttt{LEGO Ninjago}}}}$ ${{\color{blue}{\texttt{Kipo and the Age of Wonderbeasts}}}}$ ${{\color{cyan}{\texttt{Osmosis Jones}}}}$ ${{\color{blue}{\texttt{Viva Piñata (2006/OG)}}}}$ ${{\color{cyan}{\texttt{Halo}}}}$ ${{\color{blue}{\texttt{The Electric State}}}}$ ${{\color{cyan}{\texttt{The Summer Hikaru Died}}}}$
             <br>
 <hr>
