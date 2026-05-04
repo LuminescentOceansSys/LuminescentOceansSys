@@ -29,7 +29,12 @@
     
     
     
-${{\color{blue}{\texttt{Check}}}}$, ${{\color{cyan}{\texttt{Pluralkit}}}}$ ${{\color{blue}{\texttt{for front status.}}}}$ ${{\color{cyan}{\texttt{(May be outdated at times due to memory)}}}}$
+  
+      
+      
+      
+      
+    ${{\color{blue}{\texttt{Check}}}}$, ${{\color{cyan}{\texttt{Pluralkit}}}}$ ${{\color{blue}{\texttt{for front status.}}}}$ ${{\color{cyan}{\texttt{(May be outdated at times due to memory)}}}}$
     
     
         
