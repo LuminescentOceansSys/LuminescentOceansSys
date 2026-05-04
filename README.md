@@ -29,7 +29,7 @@
     
     
     
-${{\color{blue}{\texttt{Some members have their own repositories}}}}$, ${{\color{cyan}{\texttt{@}}}}$ ${{\color{blue}{\texttt{in the company category to the left under profiles.}}}}$    
+${{\color{blue}{\texttt{Check}}}}$, ${{\color{cyan}{\texttt{Pluralkit}}}}$ ${{\color{blue}{\texttt{for front status.}}}}$ // ${{\color{cyan}{\texttt{(May be outdated at times due to memory)}}}}$
     
     
         
