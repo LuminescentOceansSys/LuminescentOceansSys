@@ -69,10 +69,10 @@ Please do not refer to our 'fictives' as fictives. Please call us introjects. Th
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=34eeff&bar_color_cover=false" 
      width="550" 
-     height="150" />
-  whats currently playing on spotify
+     height="150" /> </p>
+
+<p align="center">
+whats currently playing on spotify
 </p>
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuminescentOceansSys&show_icons=true&theme=vue-dark) </div>
+NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL I LOVE NELL  ILOVE NELL NELL NLLNLLE BJHQWEJOQIWUHSAYUAYA AYNENLE  NELL NELL NELL ENENELNEEN NELMNEL ENELL NELL NELL NELL :eyes:
